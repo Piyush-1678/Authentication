@@ -1,2 +1,2 @@
 # Authentication
-This projrct helps to verify user authenticity.
+This project helps to verify user authenticity.
